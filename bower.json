@@ -1,0 +1,20 @@
+{
+  "name": "newsfeed",
+  "authors": [
+    "Brittany Serrador <serr0042@algonquinlive.com>"
+  ],
+  "description": "Newsfeed portion of OBC app",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.2"
+  }
+}
